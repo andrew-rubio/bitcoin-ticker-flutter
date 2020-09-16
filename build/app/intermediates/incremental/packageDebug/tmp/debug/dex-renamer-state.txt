@@ -1,0 +1,4 @@
+#Sun Jun 21 15:58:05 BST 2020
+base.0=/Users/andrew/AndroidStudioProjects/bitcoin-ticker-flutter/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
